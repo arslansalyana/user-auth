@@ -1,0 +1,2 @@
+password: pOBWrvzW3uuwDkLf
+compass connection string: mongodb+srv://arslansalyana:pOBWrvzW3uuwDkLf@cluster0.n8pbsra.mongodb.net/
